@@ -1,4 +1,6 @@
 ##### Deployed smartcontract address: CAKLALFVXHYZM6SFWWASCEWBYK2AE2DW4FP57PY5K7IMVVTY5SXMNYJK
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/eb30714e-c06a-4c55-adeb-b2a0cab84da4">
+
 
 # Decentralized File Storage System
 
